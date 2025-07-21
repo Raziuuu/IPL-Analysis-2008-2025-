@@ -5,7 +5,6 @@ Power BI dashboard for IPL data from 2008 to 2025
 
 This is a fully interactive **Power BI dashboard** that analyzes **IPL (Indian Premier League)** data from **2008 to 2025**.  
 The dashboard uses **slicers, dropdowns, and visuals** to deliver rich insights into team and player performances across seasons.
-
 ---
 
 ## 📊 Features
